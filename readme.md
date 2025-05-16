@@ -19,7 +19,7 @@ This application allows you to create, read, update, and delete tasks, as well a
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Shambhogit/Task-Tracker.git
+   git clone [https://github.com/Shambhogit/Task-Tracker.git](https://roadmap.sh/projects/task-tracker)
    cd Task-Tracker
    ```
 
